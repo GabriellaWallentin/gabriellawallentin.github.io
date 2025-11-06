@@ -1,2 +1,26 @@
-# Changing the theme 
+# Site settings
+title: Gabriella Wallentin
+description: Projects
+url: "https://gabriellawallentin.github.io" # your GitHub Pages URL
+baseurl: "" # leave empty for user/organization sites
+
+# Theme
 theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+permalink: /:title/  # pretty URLs for pages
+
+# Navigation (optional)
+# add links to main pages
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed   # generates RSS feed
