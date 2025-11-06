@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Gabriella Wallentin
+
+[About Me](/about/)
 ---
 
 Welcome to my page!
