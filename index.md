@@ -4,7 +4,7 @@ title: Gabriella Wallentin
 
 ---
 
-Welcome to my page! Here you can find information on me and my projects. Please don't hesitate to [contact me](gabriella.wallentin@kit.edu) with any questions.
+Welcome to my page! Here you can find information on me and my projects. Please don't hesitate to [contact me](/about/) with any questions.
 
 <style>
 /* Grid container */
@@ -74,6 +74,9 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
   
 # Datasets
 For fair and reproducible science, our data and scripts for producing plots and post-processing are available here:
+
+Interested in applying our multilayer cloud algorithm to your model data? Find it [here](https://zenodo.org/records/15829738)
+
 * [Model Data for "The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics"](https://zenodo.org/records/15829738)
 * [Research data for "Sensitivities of Simulated Mixed-phase Arctic Multilayer Clouds to Primary and Secondary Ice Processes"](https://publikationen.bibliothek.kit.edu/1000180885)
 * [Research Data for the PhD Thesis "The Microphysical and Radiative Interactions of Arctic Multilayer Clouds"](https://publikationen.bibliothek.kit.edu/1000180884)
