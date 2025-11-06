@@ -4,25 +4,6 @@ title: Gabriella Wallentin
 
 ---
 
-[About Me](/about/)
-
-Welcome to my page!
-
-# Research Interest
-
-
-# Publications
-
-* Preprint: [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5070/)
-* [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
-* PhD Thesis: [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://publikationen.bibliothek.kit.edu/1000179667)
-  
-# Datasets
-* [Model Data for "The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics"](https://zenodo.org/records/15829738)
-* [Research data for "Sensitivities of Simulated Mixed-phase Arctic Multilayer Clouds to Primary and Secondary Ice Processes"](https://publikationen.bibliothek.kit.edu/1000180885)
-* [Research Data for the PhD Thesis "The Microphysical and Radiative Interactions of Arctic Multilayer Clouds"](https://publikationen.bibliothek.kit.edu/1000180884)
-  
-
 <style>
 /* Grid container */
 .grid-container {
@@ -57,18 +38,37 @@ Welcome to my page!
 
 <div class="grid-container">
   <div class="grid-card">
-    <a href="/subpage1/">Subpage 1</a>
-    <p>Short description of subpage 1</p>
+    <a href="/about/">About Me</a>
+    <!-- <p></p> -->
   </div>
-  <div class="grid-card">
+  <!-- <div class="grid-card">
     <a href="/subpage2/">Subpage 2</a>
     <p>Short description of subpage 2</p>
   </div>
   <div class="grid-card">
     <a href="/subpage3/">Subpage 3</a>
     <p>Short description of subpage 3</p>
-  </div>
+  </div> -->
 </div>
+
+
+Welcome to my page!
+
+# Research Interest
+
+
+# Publications
+
+* Preprint: [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5070/)
+* [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
+* PhD Thesis: [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://publikationen.bibliothek.kit.edu/1000179667)
+  
+# Datasets
+* [Model Data for "The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics"](https://zenodo.org/records/15829738)
+* [Research data for "Sensitivities of Simulated Mixed-phase Arctic Multilayer Clouds to Primary and Secondary Ice Processes"](https://publikationen.bibliothek.kit.edu/1000180885)
+* [Research Data for the PhD Thesis "The Microphysical and Radiative Interactions of Arctic Multilayer Clouds"](https://publikationen.bibliothek.kit.edu/1000180884)
+  
+
 
 
 <!-- Email icon in top-right corner -->
