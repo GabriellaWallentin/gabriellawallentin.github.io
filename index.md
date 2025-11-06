@@ -4,6 +4,8 @@ title: Gabriella Wallentin
 
 ---
 
+Welcome to my page! Here you can find information on me and my projects. Please don't hesitate to [contact me](gabriella.wallentin@kit.edu) with any questions.
+
 <style>
 /* Grid container */
 .grid-container {
@@ -52,70 +54,27 @@ title: Gabriella Wallentin
 </div>
 
 
-Welcome to my page!
 
 # Research Interest
-
+I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have since continued working at KIT for a postdoctoral position within the [CleanCloud](https://projects.au.dk/cleancloud/cleancloud-project) project. My current topic is on ice nucleating particles (INPs) and their global distribution and importance for cloud ice formation on weather and climate scales.
 
 # Publications
 
+## Multilayer Clouds
+Interested in multilayer clouds and how we can model them? These publications go into detail on the microphysical, macrophysical, and thermodynamic requirements to accurately model these clouds.
+How does the numerical weather prediction model ICON perform in the high Arctic? and can we model the multilayer cloud occurrence? 
 * Preprint: [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5070/)
+
+  Case studies can be beneficial for a closer look at how the microphysics interacts, here is a 2-day case study that looks at the primary and seconday ice production in a multilayer cloud system
 * [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
+
+  For a more detailed analysis of these clouds, have a look at my PhD thesis!
 * PhD Thesis: [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://publikationen.bibliothek.kit.edu/1000179667)
   
 # Datasets
+For fair and reproducible science, our data and scripts for producing plots and post-processing are available here:
 * [Model Data for "The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics"](https://zenodo.org/records/15829738)
 * [Research data for "Sensitivities of Simulated Mixed-phase Arctic Multilayer Clouds to Primary and Secondary Ice Processes"](https://publikationen.bibliothek.kit.edu/1000180885)
 * [Research Data for the PhD Thesis "The Microphysical and Radiative Interactions of Arctic Multilayer Clouds"](https://publikationen.bibliothek.kit.edu/1000180884)
   
 
-
-
-<!-- Email icon in top-right corner -->
-<style>
-#emailIcon {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  font-size: 1.8em;
-  cursor: pointer;
-  transition: transform 0.2s;
-}
-#emailIcon:hover {
-  transform: scale(1.2);
-}
-.tooltip {
-  position: fixed;
-  top: 50px;
-  right: 25px;
-  background: #333;
-  color: #fff;
-  padding: 5px 10px;
-  border-radius: 4px;
-  font-size: 0.9em;
-  opacity: 0;
-  transition: opacity 0.2s;
-  pointer-events: none;
-}
-.tooltip.show {
-  opacity: 1;
-}
-</style>
-
-<div id="emailIcon" title="Copy email">📧</div>
-<div id="tooltip" class="tooltip">Email copied!</div>
-
-<script>
-const email = "gabriella.wallentin@kit.edu"; // replace with your email
-const icon = document.getElementById("emailIcon");
-const tooltip = document.getElementById("tooltip");
-
-icon.addEventListener("click", () => {
-  navigator.clipboard.writeText(email).then(() => {
-    tooltip.classList.add("show");
-    setTimeout(() => tooltip.classList.remove("show"), 1500);
-  }).catch(() => {
-    alert("Failed to copy email.");
-  });
-});
-</script>
