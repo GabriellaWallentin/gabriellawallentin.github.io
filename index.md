@@ -1,10 +1,19 @@
 ---
 layout: default
-title: Home
+title: Gabriella Wallentin
 ---
 
 Welcome to my page!
 
+# Research Interest
+
+# Publications
+
+* Preprint: The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics [https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5070/]
+* Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes [https://acp.copernicus.org/articles/25/6607/2025/]
+* PhD Thesis: The Microphysical and Radiative Interactions of Arctic Multilayer Clouds [https://publikationen.bibliothek.kit.edu/1000179667]
+  
+# Datasets
 
 
 <!-- Email icon in top-right corner -->
