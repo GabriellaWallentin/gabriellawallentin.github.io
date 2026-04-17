@@ -61,6 +61,9 @@ Here you can find information on me and my projects. Please don't hesitate to [c
 
 # Research Interest
 
+## Secondary Ice Production
+Secondary ice production (SIP) is a hot topic within the cloud microphysics community. Observational evidence points to the occurrence of a multiplication mechanism of cloud ice, through collision and freezing processes within mixed-phase clouds. In our group, we have built up a great code base in the [ICON](https://www.icon-model.org/) model, where we can study four SIP processes, namely rime-splintering, ice-ice collision, rain drop freezing and shattering, and sublimation break-up. The first three processes have now been studied in Germany [Sullivan et al. 2018](https://acp.copernicus.org/articles/18/16461/2018/), [Han et al. 2024](https://journals.ametsoc.org/view/journals/atsc/81/5/JAS-D-23-0156.1.xml), and in the Arctic [Wallentin et al. 2025](https://acp.copernicus.org/articles/25/6607/2025/). Current work includes the evaluation of the implemented SIP in deep convective clouds over the US and Pacific [Waman et al.](https://doi.org/10.5194/egusphere-2025-6129), over Corsica (Verma, in preparation) and in Finland, where the focus is on capturing the observed rain drop freezing and shattering mechanism with ICON [Meusel et al. EGU Abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-8054.html). 
+
 ## Multilayer Clouds
 Multilayer clouds (MLCs) are vertically stacked cloud layers, which may interact through microphysics and radiation. These cloud systems are often found in the Arctic region, and this project goes into a detailed modelling study to establish 1) how our weather prediction model ICOsahedral Nonhydrostatic model, [ICON](https://www.icon-model.org/) performs in the Arctic, 2) whether we can accurately model a 3-day case study of multilayer clouds and how they react to perturbations in primary and secondary ice production, 3) how widely MLCs occur across the Arctic region, 4) what their modelled and observed characteristics are from a macrophysical perspective, and 5) their microphysical and radiative interactions.
 
@@ -74,16 +77,17 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
   
 * Case studies can be beneficial for a closer look at how the microphysics interacts, here is a 2-day case study that looks at the primary and secondary ice production in a multilayer cloud system
   Wallentin et al. 2025 [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
-  ![Cloud Scene](/assets/img/
+  ![Cloud Scene](/assets/img/MLC_paper1.png)
 
   For a more detailed analysis of these clouds, have a look at my PhD thesis!
 * PhD Thesis: Wallentin 2025 [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://publikationen.bibliothek.kit.edu/1000179667)
 
 
-  
+
 
 # Publications
-  * Wallentin et al. (to be submitted) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", Nature Geosciences, EGUsphere preprint: 
+**First-author Papers**
+  * Wallentin et al. (to be submitted) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", [EGU 2026 Abstract](
 
   * Wallentin et al. (to be submitted) "The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Mixed-phase Multilayer Clouds", Journal of Geophysical Research, Atmospheres
 
@@ -91,13 +95,15 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
 
   * Wallentin et al. "Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes". Atmospheric Chemistry and Physics, 25 (13), 6607–6631. doi:10.5194/acp-25-6607-2025, 2025.
 
-    \item Verma, B., **Wallentin G.**, Barthlott, C., Hoose, C.: _Impacts of Cloud Condensation Nuclei on Orographic Secondary Ice Production over Corsica_, Atmospheric Chemistry and Physics [in preparation]
+  **Supervised work**
+  * Verma, B., **Wallentin G.**, Barthlott, C., Hoose, C.: _Impacts of Cloud Condensation Nuclei on Orographic Secondary Ice Production over Corsica_, Atmospheric Chemistry and Physics [in preparation]
     
-    \item D\"urlich, V., **Wallentin, G.**,  Oertel, A., Tesche, M., Achtert, P., Seelig, T., Hoose, C.: _The Thermodynamic Stability and Sources of Arctic Multilayer Clouds during MOSAiC_, [in preparation]
-    
-    \item  Waman, D., Meusel, J., Keshtgar, B., **Wallentin, G.**, Barthlott, C., Patade, S., Shete, S., Prabhakaran, T., Fievet, R., Finney, D., Blyth, A., and Hoose, C.: _Impacts of Secondary Ice Production on the Microphysics and Dynamics of Deep Convective Clouds in Different Environments_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-6129, 2026. 
+  * Dürlich, V., **Wallentin, G.**,  Oertel, A., Tesche, M., Achtert, P., Seelig, T., Hoose, C.: _The Thermodynamic Stability and Sources of Arctic Multilayer Clouds during MOSAiC_, [in preparation]
 
-    \item Achtert, P., Seelig, T., **Wallentin, G.**, Ickes, L., Shupe, M. D., Hoose, C., and Tesche, M.: _Occurrence of seeding multi-layer clouds in the Arctic from ground-based observations_, Atmospheric Chemistry and Physics, 26, 3049–3068, https://doi.org/10.5194/acp-26-3049-2026, 2026. 
+  **Co-authorship**
+  * Waman, D., Meusel, J., Keshtgar, B., **Wallentin, G.**, Barthlott, C., Patade, S., Shete, S., Prabhakaran, T., Fievet, R., Finney, D., Blyth, A., and Hoose, C.: _Impacts of Secondary Ice Production on the Microphysics and Dynamics of Deep Convective Clouds in Different Environments_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-6129, 2026. 
+
+  * Achtert, P., Seelig, T., **Wallentin, G.**, Ickes, L., Shupe, M. D., Hoose, C., and Tesche, M.: _Occurrence of seeding multi-layer clouds in the Arctic from ground-based observations_, Atmospheric Chemistry and Physics, 26, 3049–3068, https://doi.org/10.5194/acp-26-3049-2026, 2026. 
 
 
 # Datasets
