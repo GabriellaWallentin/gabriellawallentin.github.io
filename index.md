@@ -10,7 +10,7 @@ I am a postdoctoral researcher in the group of Prof. Dr Corinna Hoose. I finishe
 Here you can find information on me and my projects. Please don't hesitate to [contact me](gabriella.wallentin[at]kit.edu). 
  You can also find me on [LinkedIn](https://www.linkedin.com/in/gabriella-wallentin1994/) or [ORCiD](https://orcid.org/0000-0002-7240-0498) 
 
-<style>
+<!-- <style>
 /* Grid container */
 .grid-container {
   display: grid;
@@ -40,7 +40,7 @@ Here you can find information on me and my projects. Please don't hesitate to [c
   font-weight: bold;
   display: block;
 }
-</style>
+</style> -->
 
 <!-- <div class="grid-container">
   <div class="grid-card">
