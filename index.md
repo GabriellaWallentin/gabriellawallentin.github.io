@@ -62,11 +62,11 @@ I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have sinc
 
 ## Multilayer Clouds
 Interested in multilayer clouds and how we can model them? These publications go into detail on the microphysical, macrophysical, and thermodynamic requirements to accurately model these clouds.
-How does the numerical weather prediction model ICON perform in the high Arctic? and can we model the multilayer cloud occurrence? 
-* Preprint: [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5070/)!
+How does the numerical weather prediction model ICON perform in the high Arctic? And can we model the multilayer cloud occurrence? 
+* This study explores a month of simulations in the high Arctic following the MOSAiC campaign. We find a high occurrence of MLCs across the Arctic region, develop an ice nucleating particle (INP) parameterisation for Arctic autumn, and evaluate the ICOsahedral Nonhydrostatic model, ICON, in this extreme region [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://acp.copernicus.org/articles/26/3069/2026/)!
  ![MLC Occurrence](/assets/img/Occurrence_spatial_1e-09.png)
   
-  Case studies can be beneficial for a closer look at how the microphysics interacts, here is a 2-day case study that looks at the primary and seconday ice production in a multilayer cloud system
+  Case studies can be beneficial for a closer look at how the microphysics interacts, here is a 2-day case study that looks at the primary and secondary ice production in a multilayer cloud system
 * [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
 
   For a more detailed analysis of these clouds, have a look at my PhD thesis!
