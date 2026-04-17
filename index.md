@@ -46,7 +46,7 @@ Here you can find information on me and my projects. Please don't hesitate to [c
   <div class="grid-card">
     <a href="/about/">About Me</a>
     <!-- <p></p> -->
-  </div> -->
+  <!-- </div> -->
   <!-- <div class="grid-card">
     <a href="/subpage2/">Subpage 2</a>
     <p>Short description of subpage 2</p>
