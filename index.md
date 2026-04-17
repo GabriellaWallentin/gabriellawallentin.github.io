@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Gabriella Wallentin
+title: Dr Gabriella Wallentin
 
 ---
 
-Welcome to my page! Here you can find information on me and my projects. Please don't hesitate to [contact me](/about/) with any questions.
+Welcome to my page! 
+I am a postdoctoral researcher in the group of Prof. Dr Corinna Hoose. I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have since continued working at KIT for a postdoctoral position within the [CleanCloud](https://projects.au.dk/cleancloud/cleancloud-project) project. My current topic is on ice nucleating particles (INPs) and their global distribution and importance for cloud ice formation on weather and climate scales.
+
+Here you can find information on me and my projects. Please don't hesitate to [contact me](gabriella.wallentin[at]kit.edu). 
+ You can also find me on [LinkedIn](https://www.linkedin.com/in/gabriella-wallentin1994/) or [ORCiD](https://orcid.org/0000-0002-7240-0498) 
 
 <style>
 /* Grid container */
@@ -38,11 +42,11 @@ Welcome to my page! Here you can find information on me and my projects. Please 
 }
 </style>
 
-<div class="grid-container">
+<!-- <div class="grid-container">
   <div class="grid-card">
     <a href="/about/">About Me</a>
     <!-- <p></p> -->
-  </div>
+  </div> -->
   <!-- <div class="grid-card">
     <a href="/subpage2/">Subpage 2</a>
     <p>Short description of subpage 2</p>
@@ -51,27 +55,51 @@ Welcome to my page! Here you can find information on me and my projects. Please 
     <a href="/subpage3/">Subpage 3</a>
     <p>Short description of subpage 3</p>
   </div> -->
-</div>
+<!-- </div> -->
 
 
 
 # Research Interest
-I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have since continued working at KIT for a postdoctoral position within the [CleanCloud](https://projects.au.dk/cleancloud/cleancloud-project) project. My current topic is on ice nucleating particles (INPs) and their global distribution and importance for cloud ice formation on weather and climate scales.
-
-# Publications
 
 ## Multilayer Clouds
+Multilayer clouds (MLCs) are vertically stacked cloud layers, which may interact through microphysics and radiation. These cloud systems are often found in the Arctic region, and this project goes into a detailed modelling study to establish 1) how our weather prediction model ICOsahedral Nonhydrostatic model, [ICON](https://www.icon-model.org/) performs in the Arctic, 2) whether we can accurately model a 3-day case study of multilayer clouds and how they react to perturbations in primary and secondary ice production, 3) how widely MLCs occur across the Arctic region, 4) what their modelled and observed characteristics are from a macrophysical perspective, and 5) their microphysical and radiative interactions.
+
 Interested in multilayer clouds and how we can model them? These publications go into detail on the microphysical, macrophysical, and thermodynamic requirements to accurately model these clouds.
 How does the numerical weather prediction model ICON perform in the high Arctic? And can we model the multilayer cloud occurrence? 
-* This study explores a month of simulations in the high Arctic following the MOSAiC campaign. We find a high occurrence of MLCs across the Arctic region, develop an ice nucleating particle (INP) parameterisation for Arctic autumn, and evaluate the ICOsahedral Nonhydrostatic model, ICON, in this extreme region [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://acp.copernicus.org/articles/26/3069/2026/)!
+
+* On the radiative and microphysical interactions of MLCs, stay tuned for our next paper! For a preview, have a look at our EGU 2025 Abstract [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://meetingorganizer.copernicus.org/EGU25/EGU25-15714.html)
+
+* This study explores a month of simulations in the high Arctic following the MOSAiC campaign. We find a high occurrence of MLCs across the Arctic region, develop an ice nucleating particle (INP) parameterisation for Arctic autumn, and evaluate the ICON model in this extreme region. Wallentin et al 2026, [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://acp.copernicus.org/articles/26/3069/2026/)
  ![MLC Occurrence](/assets/img/Occurrence_spatial_1e-09.png)
   
-  Case studies can be beneficial for a closer look at how the microphysics interacts, here is a 2-day case study that looks at the primary and secondary ice production in a multilayer cloud system
-* [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
+* Case studies can be beneficial for a closer look at how the microphysics interacts, here is a 2-day case study that looks at the primary and secondary ice production in a multilayer cloud system
+  Wallentin et al. 2025 [Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes](https://acp.copernicus.org/articles/25/6607/2025/)
+  ![Cloud Scene](/assets/img/
 
   For a more detailed analysis of these clouds, have a look at my PhD thesis!
-* PhD Thesis: [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://publikationen.bibliothek.kit.edu/1000179667)
+* PhD Thesis: Wallentin 2025 [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://publikationen.bibliothek.kit.edu/1000179667)
+
+
   
+
+# Publications
+  * Wallentin et al. (to be submitted) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", Nature Geosciences, EGUsphere preprint: 
+
+  * Wallentin et al. (to be submitted) "The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Mixed-phase Multilayer Clouds", Journal of Geophysical Research, Atmospheres
+
+  * Wallentin et al. "The prevalence of Arctic multilayer clouds and their observed and modelled characteristics", Atmos. Chem. Phys., 26, 3069–3089, https://doi.org/10.5194/acp-26-3069-2026, 2026. 
+
+  * Wallentin et al. "Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes". Atmospheric Chemistry and Physics, 25 (13), 6607–6631. doi:10.5194/acp-25-6607-2025, 2025.
+
+    \item Verma, B., **Wallentin G.**, Barthlott, C., Hoose, C.: _Impacts of Cloud Condensation Nuclei on Orographic Secondary Ice Production over Corsica_, Atmospheric Chemistry and Physics [in preparation]
+    
+    \item D\"urlich, V., **Wallentin, G.**,  Oertel, A., Tesche, M., Achtert, P., Seelig, T., Hoose, C.: _The Thermodynamic Stability and Sources of Arctic Multilayer Clouds during MOSAiC_, [in preparation]
+    
+    \item  Waman, D., Meusel, J., Keshtgar, B., **Wallentin, G.**, Barthlott, C., Patade, S., Shete, S., Prabhakaran, T., Fievet, R., Finney, D., Blyth, A., and Hoose, C.: _Impacts of Secondary Ice Production on the Microphysics and Dynamics of Deep Convective Clouds in Different Environments_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-6129, 2026. 
+
+    \item Achtert, P., Seelig, T., **Wallentin, G.**, Ickes, L., Shupe, M. D., Hoose, C., and Tesche, M.: _Occurrence of seeding multi-layer clouds in the Arctic from ground-based observations_, Atmospheric Chemistry and Physics, 26, 3049–3068, https://doi.org/10.5194/acp-26-3049-2026, 2026. 
+
+
 # Datasets
 For fair and reproducible science, our data and scripts for producing plots and post-processing are available here:
 
@@ -81,4 +109,3 @@ Interested in applying our multilayer cloud algorithm to your model data? Find i
 * [Research data for "Sensitivities of Simulated Mixed-phase Arctic Multilayer Clouds to Primary and Secondary Ice Processes"](https://publikationen.bibliothek.kit.edu/1000180885)
 * [Research Data for the PhD Thesis "The Microphysical and Radiative Interactions of Arctic Multilayer Clouds"](https://publikationen.bibliothek.kit.edu/1000180884)
   
-
