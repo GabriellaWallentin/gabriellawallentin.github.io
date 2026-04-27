@@ -51,10 +51,6 @@ Here you can find information on me and my projects. Please don't hesitate to [c
     <p>Short description of subpage 2</p>
   </div>
 
-  <div class="grid-card">
-    <a href="/subpage3/">Subpage 3</a>
-    <p>Short description of subpage 3</p>
-  </div>
 </div>
 -->
 
