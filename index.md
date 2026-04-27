@@ -10,8 +10,8 @@ I am a postdoctoral researcher in the group of Prof. Dr Corinna Hoose. I finishe
 Here you can find information on me and my projects. Please don't hesitate to [contact me](gabriella.wallentin[at]kit.edu). 
  You can also find me on [LinkedIn](https://www.linkedin.com/in/gabriella-wallentin1994/) or [ORCiD](https://orcid.org/0000-0002-7240-0498) 
 
-<!-- <style>
-/* Grid container */
+<!--
+<style>
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -19,7 +19,6 @@ Here you can find information on me and my projects. Please don't hesitate to [c
   margin-top: 20px;
 }
 
-/* Card style */
 .grid-card {
   background: #f5f5f5;
   border-radius: 10px;
@@ -40,23 +39,24 @@ Here you can find information on me and my projects. Please don't hesitate to [c
   font-weight: bold;
   display: block;
 }
-</style> -->
+</style>
 
-<!-- <div class="grid-container">
+<div class="grid-container">
   <div class="grid-card">
     <a href="/about/">About Me</a>
-    <!-- <p></p> -->
-  <!-- </div> -->
-  <!-- <div class="grid-card">
+  </div>
+
+  <div class="grid-card">
     <a href="/subpage2/">Subpage 2</a>
     <p>Short description of subpage 2</p>
   </div>
+
   <div class="grid-card">
     <a href="/subpage3/">Subpage 3</a>
     <p>Short description of subpage 3</p>
-  </div> -->
-<!-- </div> -->
-
+  </div>
+</div>
+-->
 
 
 # Research Interest
