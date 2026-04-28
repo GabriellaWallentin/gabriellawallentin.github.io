@@ -57,10 +57,14 @@ Here you can find information on me and my projects. Please don't hesitate to [c
 
 # Research Interest
 
+## Primary Ice Production
+Ice nucleating particles (INPs) are essential for cloud ice formation, as they lower the energy barrier for the phase change from liquid to solid. In our work, we focus on improving the representation of this process, the immersion freezing of cloud droplets when INPs are present, in global models. Models intended for global simulations have to simplify parameterisations, as they become expensive to run. However, these simplifications are often at the expense of accuracy. The current immersion freezing parameterisation in the ICON-XPP (the climate model for ICON), is homogeneously defined across the globe with no allowance for regional variations in the presence of these aerosols that can act as INPs. To remedy this, in this work, we have developed an immersion freezing parameterisation driven by observed immersion-mode INPs and machine learning. An EGU abstract can be found [here](https://meetingorganizer.copernicus.org/EGU26/EGU26-12119.html). Stay tuned for the manuscript soon to be submitted!  
+
 ## Secondary Ice Production
 Secondary ice production (SIP) is a hot topic within the cloud microphysics community. Observational evidence points to the occurrence of a multiplication mechanism of cloud ice, through collision and freezing processes within mixed-phase clouds. In our group, we have built up a great code base in the [ICON](https://www.icon-model.org/) model, where we can study four SIP processes, namely rime-splintering, ice-ice collision, rain drop freezing and shattering, and sublimation break-up. The first three processes have now been studied in Germany [Sullivan et al. 2018](https://acp.copernicus.org/articles/18/16461/2018/), [Han et al. 2024](https://journals.ametsoc.org/view/journals/atsc/81/5/JAS-D-23-0156.1.xml), and in the Arctic [Wallentin et al. 2025](https://acp.copernicus.org/articles/25/6607/2025/). Current work includes the evaluation of the implemented SIP in deep convective clouds over the US and Pacific [Waman et al.](https://doi.org/10.5194/egusphere-2025-6129), over Corsica (Verma, in preparation) and in Finland, where the focus is on capturing the observed rain drop freezing and shattering mechanism with ICON [Meusel et al. EGU Abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-8054.html). 
 
-## Multilayer Clouds
+
+## Arctic Multilayer Clouds
 Multilayer clouds (MLCs) are vertically stacked cloud layers, which may interact through microphysics and radiation. These cloud systems are often found in the Arctic region, and this project goes into a detailed modelling study to establish 1) how our weather prediction model ICOsahedral Nonhydrostatic model, [ICON](https://www.icon-model.org/) performs in the Arctic, 2) whether we can accurately model a 3-day case study of multilayer clouds and how they react to perturbations in primary and secondary ice production, 3) how widely MLCs occur across the Arctic region, 4) what their modelled and observed characteristics are from a macrophysical perspective, and 5) their microphysical and radiative interactions.
 
 Interested in multilayer clouds and how we can model them? These publications go into detail on the microphysical, macrophysical, and thermodynamic requirements to accurately model these clouds.
@@ -83,9 +87,9 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
 
 # Publications
 **First-author Papers**
-  * Wallentin et al. (to be submitted) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", [EGU 2026 Abstract](
+  * Wallentin et al. (to be submitted) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", [EGU 2026 Abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-12119.html)
 
-  * Wallentin et al. (to be submitted) "The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Mixed-phase Multilayer Clouds", Journal of Geophysical Research, Atmospheres
+  * Wallentin et al. (to be submitted) "The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Mixed-phase Multilayer Clouds", Journal of Geophysical Research, Atmospheres [EGU 2025 Abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-15714.html)
 
   * Wallentin et al. "The prevalence of Arctic multilayer clouds and their observed and modelled characteristics", Atmos. Chem. Phys., 26, 3069–3089, https://doi.org/10.5194/acp-26-3069-2026, 2026. 
 
