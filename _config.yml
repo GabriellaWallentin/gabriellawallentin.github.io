@@ -1,6 +1,6 @@
 # Site settings
 title: Gabriella Wallentin
-description: Postdoc in Cloud Physics
+description: Postdoctoral Research at KIT
 url: "https://gabriellawallentin.github.io" # your GitHub Pages URL
 baseurl: "" # leave empty for user/organization sites
 
@@ -16,10 +16,10 @@ permalink: /:title/  # pretty URLs for pages
 nav:
   - title: Home
     url: /
-  - title: About
-    url: /about/
-  - title: Projects
-    url: /projects/
+  #- title: About
+  #  url: /about/
+  #- title: Projects
+  #  url: /projects/
 
 # Plugins (optional)
 plugins:
