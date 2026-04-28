@@ -1,8 +1,28 @@
 ---
 layout: default
 title: Dr Gabriella Wallentin
-
 ---
+
+<style>
+  .profile-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 2rem;
+  }
+  
+  .profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+</style>
+
+<div class="profile-header">
+  <img src="Wallentin.jpeg" alt="Dr Gabriella Wallentin" class="profile-image">
+  <h1>Dr Gabriella Wallentin</h1>
+</div>
 
 Welcome to my page! 
 I am a postdoctoral researcher in the group of Prof. Dr Corinna Hoose. I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have since continued working at KIT for a postdoctoral position within the [CleanCloud](https://projects.au.dk/cleancloud/cleancloud-project) project. My current topic is on ice nucleating particles (INPs) and their global distribution and importance for cloud ice formation on weather and climate scales.
