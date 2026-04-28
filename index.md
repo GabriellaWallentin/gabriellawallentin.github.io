@@ -1,15 +1,31 @@
 ---
 layout: default
-title: ""
+title: Researcher in Aerosol and Cloud Physics
 ---
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 2rem;">
-  <img src="Wallentin.jpeg" alt="Dr Gabriella Wallentin" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
-  <h1 style="margin: 0;">Dr Gabriella Wallentin</h1>
+<style>
+  .profile-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 2rem;
+  }
+  
+  .profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+</style>
+
+<div class="profile-header">
+  <img src="Wallentin.jpeg" alt="Dr Gabriella Wallentin" class="profile-image">
+  <h1>Dr Gabriella Wallentin</h1>
 </div>
 
 Welcome to my page! 
-I am a postdoctoral researcher in the group of Prof. Dr Corinna Hoose. I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have since continued working at KIT for a postdoctoral position within the [CleanCloud](https://projects.au.dk/cleancloud/cleancloud-project) project. My current topic is on ice nucleating particles (INPs) and their global distribution and importance for cloud ice formation on weather and climate scales.
+I am a postdoctoral researcher in the group of Prof. Dr Corinna Hoose at Karlsruhe Institute of Technology (KIT). I finished my PhD on the topic of Arctic multilayer clouds in 2024 and have since continued working at KIT for a postdoctoral position within the [CleanCloud](https://projects.au.dk/cleancloud/cleancloud-project) project. My current topic is on ice nucleating particles (INPs) and their global distribution and importance for cloud ice formation at weather and climate scales.
 
 Here you can find information on me and my projects. Please don't hesitate to [contact me](gabriella.wallentin[at]kit.edu). 
  You can also find me on [LinkedIn](https://www.linkedin.com/in/gabriella-wallentin1994/) or [ORCiD](https://orcid.org/0000-0002-7240-0498) 
