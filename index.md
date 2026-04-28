@@ -1,27 +1,11 @@
 ---
 layout: default
-title: Dr Gabriella Wallentin
+title: ""
 ---
 
-<style>
-  .profile-header {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-bottom: 2rem;
-  }
-  
-  .profile-image {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-  }
-</style>
-
-<div class="profile-header">
-  <img src="Wallentin.jpeg" alt="Dr Gabriella Wallentin" class="profile-image">
-  <h1>Dr Gabriella Wallentin</h1>
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 2rem;">
+  <img src="Wallentin.jpeg" alt="Dr Gabriella Wallentin" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
+  <h1 style="margin: 0;">Dr Gabriella Wallentin</h1>
 </div>
 
 Welcome to my page! 
