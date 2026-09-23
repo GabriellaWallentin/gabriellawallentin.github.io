@@ -98,7 +98,7 @@ Multilayer clouds (MLCs) are vertically stacked cloud layers, which may interact
 Interested in multilayer clouds and how we can model them? These publications go into detail on the microphysical, macrophysical, and thermodynamic requirements to accurately model these clouds.
 How does the numerical weather prediction model ICON perform in the high Arctic? And can we model the multilayer cloud occurrence? 
 
-* On the radiative and microphysical interactions of MLCs, stay tuned for our next paper! For a preview, have a look at our EGU 2025 Abstract [The Microphysical and Radiative Interactions of Arctic Multilayer Clouds](https://meetingorganizer.copernicus.org/EGU25/EGU25-15714.html)
+* Our latest study, now available as a preprint: [The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Multilayer Clouds](https://essopenarchive.org/doi/full/10.22541/essoar.15009266/v1) concerns the interlinked interactions of seeding and radiative interactions of MLCs. In this study, we look at the differences between the lowest cloud layer in the MLC system and compare it to single-layer clouds during a month of simulation during the MOSAiC campaign in 2019/2020.
 
 * This study explores a month of simulations in the high Arctic following the MOSAiC campaign. We find a high occurrence of MLCs across the Arctic region, develop an ice nucleating particle (INP) parameterisation for Arctic autumn, and evaluate the ICON model in this extreme region. Wallentin et al 2026, [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://acp.copernicus.org/articles/26/3069/2026/)
  ![MLC Occurrence](/assets/img/Occurrence_spatial_1e-09.png)
@@ -115,13 +115,13 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
 
 # Publications
 **First-author Papers**
-  * Wallentin et al. (to be submitted) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", [EGU 2026 Abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-12119.html)
+  * Wallentin et al. (in review) "A Data-driven Approach to Modelling a Global Distribution of Ice Nucleating Particles", [Preprint](https://doi.org/10.5194/egusphere-2026-4134)
 
-  * Wallentin et al. (to be submitted) "The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Mixed-phase Multilayer Clouds", Journal of Geophysical Research, Atmospheres [EGU 2025 Abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-15714.html)
+  * Wallentin et al. (in review) "The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Mixed-phase Multilayer Clouds", Journal of Geophysical Research, Atmospheres [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15009266/v1)
 
-  * Wallentin et al. "The prevalence of Arctic multilayer clouds and their observed and modelled characteristics", Atmos. Chem. Phys., 26, 3069–3089, https://doi.org/10.5194/acp-26-3069-2026, 2026. 
+  * Wallentin et al. "The prevalence of Arctic multilayer clouds and their observed and modelled characteristics", Atmos. Chem. Phys., 26, 3069–3089, [https://doi.org/10.5194/acp-26-3069-2026](https://doi.org/10.5194/acp-26-3069-2026), 2026. 
 
-  * Wallentin et al. "Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes". Atmospheric Chemistry and Physics, 25 (13), 6607–6631. doi:10.5194/acp-25-6607-2025, 2025.
+  * Wallentin et al. "Sensitivities of simulated mixed-phase Arctic multilayer clouds to primary and secondary ice processes". Atmospheric Chemistry and Physics, 25 (13), 6607–6631. [doi:10.5194/acp-25-6607-2025](https://acp.copernicus.org/articles/25/6607/2025/), 2025.
 
   **Supervised work**
   * Verma, B., **Wallentin G.**, Barthlott, C., Hoose, C.: _Impacts of Cloud Condensation Nuclei on Orographic Secondary Ice Production over Corsica_, Atmospheric Chemistry and Physics [in preparation]
@@ -129,9 +129,10 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
   * Dürlich, V., **Wallentin, G.**,  Oertel, A., Tesche, M., Achtert, P., Seelig, T., Hoose, C.: _The Thermodynamic Stability and Sources of Arctic Multilayer Clouds during MOSAiC_, [in preparation]
 
   **Co-authorship**
-  * Waman, D., Meusel, J., Keshtgar, B., **Wallentin, G.**, Barthlott, C., Patade, S., Shete, S., Prabhakaran, T., Fievet, R., Finney, D., Blyth, A., and Hoose, C.: _Impacts of Secondary Ice Production on the Microphysics and Dynamics of Deep Convective Clouds in Different Environments_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-6129, 2026. 
+  
+  * Waman, D., Meusel, J., Keshtgar, B., **Wallentin, G.**, Barthlott, C., Patade, S., Shete, S., Prabhakaran, T., Fievet, R., Finney, D., Blyth, A., and Hoose, C.: _Impacts of Secondary Ice Production on the Microphysics and Dynamics of Deep Convective Clouds in Different Environments_, Atmos. Chem. Phys., 26, 11371–11407, [https://doi.org/10.5194/acp-26-11371-2026](https://doi.org/10.5194/acp-26-11371-2026), 2026
 
-  * Achtert, P., Seelig, T., **Wallentin, G.**, Ickes, L., Shupe, M. D., Hoose, C., and Tesche, M.: _Occurrence of seeding multi-layer clouds in the Arctic from ground-based observations_, Atmospheric Chemistry and Physics, 26, 3049–3068, https://doi.org/10.5194/acp-26-3049-2026, 2026. 
+  * Achtert, P., Seelig, T., **Wallentin, G.**, Ickes, L., Shupe, M. D., Hoose, C., and Tesche, M.: _Occurrence of seeding multi-layer clouds in the Arctic from ground-based observations_, Atmospheric Chemistry and Physics, 26, 3049–3068, [https://doi.org/10.5194/acp-26-3049-2026](https://doi.org/10.5194/acp-26-3049-2026), 2026. 
 
 
 # Datasets
