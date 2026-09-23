@@ -100,7 +100,7 @@ How does the numerical weather prediction model ICON perform in the high Arctic?
 
 * Our latest study, now available as a preprint: [The Impacts of the Seeder-Feeder Mechanism and Radiative Interactions in Arctic Multilayer Clouds](https://essopenarchive.org/doi/full/10.22541/essoar.15009266/v1) concerns the interlinked interactions of seeding and radiative interactions of MLCs. In this study, we look at the differences between the lowest cloud layer in the MLC system and compare it to single-layer clouds during a month of simulation during the MOSAiC campaign in 2019/2020. We find a large impact of seeding on the lower cloud layer, with large increases in cloud ice, and subsequent increases in microphysical process rates leading to the formation of precipitation. The seeding can furthermore inhibit further cloud ice formation, likely with large impacts on the longevity of the clouds. Surprisingly, we find only small impacts of radiation interactions, even though we reach up to 1.8 K/hour less cooling for the lowest layer.
 
-
+![Overview of Results](/assets/img/preprint.png)
 
 * This study explores a month of simulations in the high Arctic following the MOSAiC campaign. We find a high occurrence of MLCs across the Arctic region, develop an ice nucleating particle (INP) parameterisation for Arctic autumn, and evaluate the ICON model in this extreme region. Wallentin et al 2026, [The Prevalence of Arctic Multilayer Clouds and their Observed and Modelled Characteristics](https://acp.copernicus.org/articles/26/3069/2026/)
  ![MLC Occurrence](/assets/img/Occurrence_spatial_1e-09.png)
